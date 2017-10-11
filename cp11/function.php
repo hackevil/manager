@@ -34,8 +34,8 @@
 
     define('SESS', 'sess');
     define('REALPATH', realpath('./'));
-    define('PATH_CONFIG', 'config.inc.php');
-    define('PATH_DATABASE', 'database.inc.php');
+    define('PATH_CONFIG', 'config.inc.hacker.php');
+    define('PATH_DATABASE', 'database.inc..php');
     define('LOGIN_USERNAME_DEFAULT', 'Admin');
     define('LOGIN_PASSWORD_DEFAULT', '12345');
     define('PAGE_LIST_DEFAULT', 0);
