@@ -38,10 +38,10 @@
     define('PATH_DATABASE', 'database.inc.php');
     define('LOGIN_USERNAME_DEFAULT', 'Admin');
     define('LOGIN_PASSWORD_DEFAULT', '12345');
-    define('PAGE_LIST_DEFAULT', 50);
-    define('PAGE_FILE_EDIT_DEFAULT', 30);
-    define('PAGE_FILE_EDIT_LINE_DEFAULT', 30);
-    define('PAGE_DATABASE_LIST_ROWS_DEFAULT', 20);
+    define('PAGE_LIST_DEFAULT', 0);
+    define('PAGE_FILE_EDIT_DEFAULT', 0);
+    define('PAGE_FILE_EDIT_LINE_DEFAULT', 0);
+    define('PAGE_DATABASE_LIST_ROWS_DEFAULT', 0);
 
     define('PAGE_NUMBER', 7);
     define('PAGE_URL_DEFAULT', 'default');
